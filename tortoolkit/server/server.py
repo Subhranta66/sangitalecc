@@ -205,7 +205,7 @@ input[type="submit"]:hover, input[type="submit"]:focus{
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/Xcodershub/TorToolkitX"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/KangersHub/TorToolkitX"><i class="fab fa-github"></i></a>
         <a href="https://t.me/TorToolkit"><i class="fab fa-telegram"></i></a>
         <a href="https://t.me/Xcdoershub"><i class="fab fa-telegram"></i></a>
       </div>
@@ -540,12 +540,12 @@ section span{
           src="https://telegra.ph/file/339934f8ce1375043127d.jpg"
           alt="logo"
         />
-        <a href="https://t.me/Xcodershub">
+        <a href="https://t.me/KangersHub">
           <h2 class="name">TorToolkitX</h2>
         </a>
       </div>
       <div class="social">
-        <a href="https://github.com/xcodershub/tortoolkitx"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/KangersHub/tortoolkitx"><i class="fab fa-github"></i></a>
         <a href="https://t.me/TorToolkit"><i class="fab fa-telegram"></i></a>
         <a href="https://t.me/Xcdoershub"><i class="fab fa-telegram"></i></a>
       </div>

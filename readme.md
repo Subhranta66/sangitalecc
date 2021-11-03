@@ -2,13 +2,13 @@
 So basically Tortoolkit is aimed to be the most versatile torrent leecher and Youtube-DL bot for telegram. This bot is highly customizable and to customize this bot you don't need to restart the bot every time. 
 The bot gets started with minimum variables and others can be set as and when needed using the /settings.
 
-## Use [master](https://github.com/XcodersHub/TorToolkitX) branch for stable performance.
+## Use [master](https://github.com/KangersHub/TorToolkitX) branch for stable performance.
 
 ## The Alpha branch is still in testing and is meant for testers. Soon a stable of this version will come out.
 
 
 ## For any help join this:- [TTKDISC](https://t.me/ttkdisc)
-## or this:- [XcodersHubChat](https://t.me/xcodershubchat)
+## or this:- [KangersHubChat](https://t.me/KangersHubchat)
 
 
 ## Whats new
@@ -106,7 +106,7 @@ Steps:-
 
 1. Run the following commands. (Following commands can be used to setup the vps from scratch)
    
-    1. `git clone https://github.com/XcodersHub/TorToolkitX.git`
+    1. `git clone https://github.com/KangersHub/TorToolkitX.git`
     2. `sudo apt update`
     3. `sudo apt install -y python3.8`
     4. `sudo apt install -y python3-venv`
