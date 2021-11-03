@@ -41,7 +41,8 @@ class Aria2Downloader(BaseTask):
         aria2_daemon_start_cmd.append("--rpc-listen-all=true")
         aria2_daemon_start_cmd.append(f"--rpc-listen-port=8100")
         aria2_daemon_start_cmd.append("--rpc-max-request-size=1024M")
-
+        # TODO Rmove this when fixed...adding Cert check skip use to error with some cloudflare https traffic
+        aria2_daemon_start_cmd.append("--check-certificate=false")
         aria2_daemon_start_cmd.append("--conf-path=/torapp/tortoolkit/aria2/aria2.conf")
         #
         torlog.debug(aria2_daemon_start_cmd)
